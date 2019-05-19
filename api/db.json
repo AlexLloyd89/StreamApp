@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "Update checking",
+      "description": "Updated!",
+      "userId": "115455547695280271844",
+      "id": 2
+    },
+    {
+      "title": "Streaming",
+      "description": "Going Live",
+      "userId": "115455547695280271844",
+      "id": 3
+    }
+  ]
+}
