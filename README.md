@@ -1,6 +1,6 @@
 # StreaMe
 
-A fun front-end (mostly) React application thaht allows you to stream video
+A fun front-end (mostly) React application that allows you to stream video
 
 
 ### Prerequisites
